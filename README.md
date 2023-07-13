@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @garovu
-- 👀 I’m interested in ... front-end.
-- 🌱 I’m currently learning ... ui/ux design.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+![Hello World](hello-world.gif)  
 
 <!---
 garovu/garovu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
