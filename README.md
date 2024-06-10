@@ -12,23 +12,31 @@ I'm looking for an opportunity to learn more about DevOps and to contribute to a
 ### Technologies and tools
 
 ![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=eb897c)
+![macos](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=eb897c)
 ![vscode](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=eb897c)
 ![python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=eb897c)
-![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=typescripte&logoColor=white&color=eb897c)
+![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=eb897c)
 ![typescript](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=eb897c)
 ![golang](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=eb897c)
-![make](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=eb897c)
-![shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=eb897c)
+![zsh](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=eb897c)
 ![postgresql](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=eb897c)
 ![scylladb](https://img.shields.io/badge/Database-ScyllaDB-informational?style=flat&logo=scylladb&logoColor=white&color=eb897c)
 ![mongodb](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=eb897c)
-![docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=eb897c)
-![kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=eb897c)
+![docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=eb897c)
+![ansible](https://img.shields.io/badge/Tool-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=eb897c)
+![kubernetes](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=eb897c)
 ![aws](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=eb897c)
 ![gcp](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=eb897c)
 
 <details>
 <summary><h3>My Projects</h3></summary>
+
+- Updating*
+
+</details>
+
+<details>
+<summary><h3>My Certificates</h3></summary>
 
 - Updating*
 
